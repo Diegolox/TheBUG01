@@ -60,6 +60,6 @@ El objetivo es ofrecer una plataforma compacta con **todo integrado**: regulaci√
 
 ---
 
-**Status:** In development / prototyping.
-**Use case:** Educational robotics, research prototypes, fast integration platform
-**In collaboration with Carlos Rios Ferrer**
+* **Status:** In development / prototyping.
+* **Use case:** Educational robotics, research prototypes, fast integration platform
+* **In collaboration with Carlos Rios Ferrer**
