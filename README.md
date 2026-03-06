@@ -16,6 +16,13 @@ This project is a custom **all-in-one PCB** for a **two-wheel differential drive
 * **Test LEDs** for quick debugging and status indication during bring-up.
 * **Integrated DC-DC converter** to step down from the **battery voltage** to the robot’s required internal rail(s), simplifying power distribution and improving overall reliability.
 
+
+### PCB Layout
+![PCB Layout](images/PCB_LAYOUT.png)
+
+### Schematic
+![Esquemático](images/SCH.png)
+
 ### Goal
 
 The goal of this PCB is to provide a compact robotics platform with **everything integrated**: power regulation, sensing, motor driving, and basic user I/O. With this hardware, you can quickly implement and iterate on:
