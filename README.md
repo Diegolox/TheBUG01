@@ -1,4 +1,4 @@
-# TheBUG01 ⚡📟
+# TheBUG01 ⚡
 
 ## 🇬🇧 Project Description (English)
 
