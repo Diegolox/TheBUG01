@@ -2,10 +2,11 @@
 
 ## 🇬🇧 Project Description (English)
 
-This project is a custom **all-in-one PCB** for a **two-wheel differential drive robot**, designed to be **plug-and-play** and easy to integrate into new robotics prototypes. The board brings together the key building blocks needed for motion control and autonomous navigation, so you can focus on software and algorithms instead of wiring and power integration.
+<p align="justify">
+This project is a custom <strong>all-in-one PCB</strong> for a <strong>two-wheel differential drive robot</strong>, designed to be <strong>plug-and-play</strong> and easy to integrate into new robotics prototypes. The board brings together the key building blocks needed for motion control and autonomous navigation, so you can focus on software and algorithms instead of wiring and power integration.
+</p>
 
 ![Vista 3D](images/3D_2.png)
-
 
 ### Key Features
 
@@ -18,7 +19,6 @@ This project is a custom **all-in-one PCB** for a **two-wheel differential drive
 * **Test LEDs** for quick debugging and status indication during bring-up.
 * **Integrated DC-DC converter** to step down from the **battery voltage** to the robot’s required internal rail(s), simplifying power distribution and improving overall reliability.
 
-
 ### PCB Layout
 ![PCB Layout](images/PCB_LAYOUT.png)
 
@@ -27,7 +27,9 @@ This project is a custom **all-in-one PCB** for a **two-wheel differential drive
 
 ### Goal
 
-The goal of this PCB is to provide a compact robotics platform with **everything integrated**: power regulation, sensing, motor driving, and basic user I/O. With this hardware, you can quickly implement and iterate on:
+<p align="justify">
+The goal of this PCB is to provide a compact robotics platform with <strong>everything integrated</strong>: power regulation, sensing, motor driving, and basic user I/O. With this hardware, you can quickly implement and iterate on:
+</p>
 
 * Wheel speed and position control loops
 * Differential drive kinematics
@@ -38,7 +40,9 @@ The goal of this PCB is to provide a compact robotics platform with **everything
 
 ## 🇪🇸 Descripción del proyecto (Español)
 
-Este proyecto es una **PCB todo-en-uno** para un **robot diferencial de dos ruedas**, pensada para ser **plug-and-play** y facilitar el desarrollo rápido de prototipos. La placa integra los bloques principales necesarios para control de movimiento y navegación autónoma, evitando cableado extra y problemas de integración de potencia.
+<p align="justify">
+Este proyecto es una <strong>PCB todo-en-uno</strong> para un <strong>robot diferencial de dos ruedas</strong>, pensada para ser <strong>plug-and-play</strong> y facilitar el desarrollo rápido de prototipos. La placa integra los bloques principales necesarios para control de movimiento y navegación autónoma, evitando cableado extra y problemas de integración de potencia.
+</p>
 
 ### Características principales
 
@@ -53,7 +57,9 @@ Este proyecto es una **PCB todo-en-uno** para un **robot diferencial de dos rued
 
 ### Objetivo
 
-El objetivo es ofrecer una plataforma compacta con **todo integrado**: regulación de potencia, sensórica, driver de motores y E/S básica. Con este hardware se pueden implementar de forma rápida:
+<p align="justify">
+El objetivo es ofrecer una plataforma compacta con <strong>todo integrado</strong>: regulación de potencia, sensórica, driver de motores y E/S básica. Con este hardware se pueden implementar de forma rápida:
+</p>
 
 * Control de velocidad/posición de ruedas
 * Cinemática diferencial
