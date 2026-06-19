@@ -1,6 +1,6 @@
 # TheBUG01 ⚡
 
-## 🇬🇧 Project Description (English)
+## 🇬🇧 Project Description
 
 <p align="justify">
 This project is a custom <strong>all-in-one PCB</strong> for a <strong>two-wheel differential drive robot</strong>, designed to be <strong>plug-and-play</strong> and easy to integrate into new robotics prototypes. The board brings together the key building blocks needed for motion control and autonomous navigation, so you can focus on software and algorithms instead of wiring and power integration.
