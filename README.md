@@ -38,7 +38,7 @@ The goal of this PCB is to provide a compact robotics platform with <strong>ever
 
 ---
 
-## 🇪🇸 Descripción del proyecto (Español)
+## 🇪🇸 Descripción del proyecto
 
 <p align="justify">
 Este proyecto es una <strong>PCB todo-en-uno</strong> para un <strong>robot diferencial de dos ruedas</strong>, pensada para ser <strong>plug-and-play</strong> y facilitar el desarrollo rápido de prototipos. La placa integra los bloques principales necesarios para control de movimiento y navegación autónoma, evitando cableado extra y problemas de integración de potencia.
